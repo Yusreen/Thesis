@@ -1,0 +1,8 @@
+	index_x	Query	Path_Bandage	index_y	Start Position on Path	End Position on Path	Path Matching	Path_GraphAligner	Equal	Query_Not_Bandage	Query_Not_GraphAligner
+59	372.0	gb|AF527798.1|+|0-785|ARO:3000879|TEM-7	5967						no	no	yes
+132	240.0	gb|AY130282|+|0-764|ARO:3000980|TEM-117	5967						no	no	yes
+133	368.0	gb|AY130284|+|0-785|ARO:3000941|TEM-75	5967						no	no	yes
+134	241.0	gb|AY130285|+|0-785|ARO:3000981|TEM-118	5967						no	no	yes
+162	176.0	gb|AY590467|+|0-729|ARO:3001110|SHV-53	5151						no	no	yes
+295	316.0	gb|JX050178|+|0-853|ARO:3001058|TEM-199	5967						no	no	yes
+353	298.0	gb|NG_050218.1|+|0-1061|ARO:3001044|TEM-181	59655967						no	no	yes
